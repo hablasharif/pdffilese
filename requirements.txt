@@ -1,0 +1,11 @@
+flask 
+PyPDF2 
+PdfMerger
+PdfFileReader
+os
+io
+<<<<<<< HEAD:requirements.txt
+gunicorn
+=======
+gunicorn
+>>>>>>> 991f5b1260a5f51e7bc44d31da26bcdc19401bb1:templates/requirements.txt
